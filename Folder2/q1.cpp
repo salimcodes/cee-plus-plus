@@ -1,11 +1,11 @@
 #include <iostream>
 
 using namespace std;
-
+//Code Written by Salim O. Oyinlola
 /*
 Write a structure tag and short main program that sets up a struct for a 
 Super Eagles player that contains his name, earned run average (ERA), 
-and team. In the program, declare one pitcher variable and pass its address to a function called Smokin’. 
+and team. In the program, declare one pitcher variable and pass its address to a function called Smokinâ€™. 
 
 This function fills the pitcher variable with the following information:
 
