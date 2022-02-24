@@ -121,7 +121,7 @@ This simplest process is to Download ZIP.
 
 Contributors' names and contact info
 
-* [Salim Olanrewaju Oyinlola](https://twitter.com/SalimOpines)
+* [Salim Ọlánrewájú Oyinlọlá](https://twitter.com/SalimOpines)
 * [Esther Abiola Farounbi](https://twitter.com/abiolaEsther_) 
 
 
