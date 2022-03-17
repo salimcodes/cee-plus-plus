@@ -9,7 +9,7 @@ using namespace std;
 
 /*
 Write a program that sets up a Date structure (integer for month, day and year) and a
-Person structure (name and birthday – using the Date struct). The program should have a
+Person structure (name and birthday â€“ using the Date struct). The program should have a
 function (FillPerson) that asks the user to enter all the names and birthday information. The
 prototype for this function is:
 Person FillPerson();
@@ -151,3 +151,7 @@ Person WhoIsOlder(Person person1, Person person2)
 		return person2; 
 
 }
+
+
+//Twitter @SalimOpines: https://twitter.com/SalimOpines
+//Github: https://www.github.com/salimcodes
