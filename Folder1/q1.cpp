@@ -44,3 +44,6 @@ string ReverseIt(char f_input[50])
 	};
 	return foutput;
 }
+
+//Twitter @SalimOpines: https://twitter.com/SalimOpines
+//Github: https://www.github.com/salimcodes
