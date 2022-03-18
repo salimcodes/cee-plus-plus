@@ -6,7 +6,7 @@ using namespace std;
 
 /*
 Write a program that sets up an overloaded function set called GetRandomNum. 
-These functions return a random number that is generated with stdlib.h’s srand() and rand(). 
+These functions return a random number that is generated with stdlib.hâ€™s srand() and rand(). 
 You will need to use the modulus function to do a little math to obtain the desired results. 
 There are three different prototypes for the GetRandomNum function:
 
@@ -81,3 +81,6 @@ double GetRandom()
     output2 = (double)rand()/(RAND_MAX)+0 +(rand()%1);
 	return output2;
 }
+
+//Twitter @SalimOpines: https://twitter.com/SalimOpines
+//Github: https://www.github.com/salimcodes
