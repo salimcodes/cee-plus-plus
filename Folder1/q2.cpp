@@ -1,5 +1,7 @@
 #include <iostream>
 
+// Code written by Salim O. Oyinlola
+
 using namespace std;
 /*
 Write a structure tag and short main program that sets up a struct for a baseball pitcher that
@@ -31,6 +33,9 @@ int main()
 	system("Pause");
 }
 
+
+//Twitter @SalimOpines: https://twitter.com/SalimOpines
+//Github: https://www.github.com/salimcodes
 void smokin(Pitcher *variable1)
 {
 	Pitcher variable2;
