@@ -42,3 +42,6 @@ void smokin(Pitcher *variable1)
 	*variable1 = variable2;
 }
 
+
+//Twitter @SalimOpines: https://twitter.com/SalimOpines
+//Github: https://www.github.com/salimcodes
