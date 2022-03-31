@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 /*
@@ -9,7 +8,7 @@ where h is the height of the cylinder whilst r designate the radius of both the 
 Setup a C++ class for both the sphere and cylinder that will compute their volumes. 
 The data members should be initialized to unity in the first instance 
 and values of the data members as well as the volumes should be displayed on the screen. 
-Furthermore, the classes should be able to accept the user’s input values and compute the corresponding volumes. 
+Furthermore, the classes should be able to accept the userâ€™s input values and compute the corresponding volumes. 
 The input values and volumes for both the sphere and cylinder, respectively, should be displayed on the screen.
 */
 class Cylinder
