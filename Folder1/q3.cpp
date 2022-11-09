@@ -139,11 +139,11 @@ Person WhoIsOlder(Person person1, Person person2)
 	{
 		return person1;
 	}
-	else if(person1.birthday.year == person2.birthday.year || person1.birthday.month < person2.birthday.month)
+	else if(person1.birthday.year == person2.birthday.year && person1.birthday.month < person2.birthday.month)
 	{
 		return person1;
 	}
-	else if(person1.birthday.year == person2.birthday.year || person1.birthday.month == person1.birthday.month || person1.birthday.day < person2.birthday.day)
+	else if(person1.birthday.year == person2.birthday.year && person1.birthday.month == person1.birthday.month && person1.birthday.day < person2.birthday.day)
 	{
 		return person1;
 	}
